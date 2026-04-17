@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Justin Dohmen from germany<br><br>- 🔭 I’m working as Junior Software Developer<br>- 📚 I'm currently learning everything about full-stack development @Developer Akademie<br>- ⚡ In my free time I play Basketball, Padel Tennis and the piano</p>
+<p align="left">I'm Justin Dohmen from germany<br><br>- 🔭 I’m working as Junior Software Developer<br>- 📚 I'm currently learning everything about full-stack development @Developer Akademie<br>- ⚡ In my free time I play Basketball, Tennis / Padel Tennis and the piano</p>
 
 ###
 
